@@ -63,6 +63,8 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Temperature IR](#temperature-ir)
 		- [Touch Capacitive](#touch-capacitive)
 		- [Touch Resistive](#touch-resistive)
+- [Tools](#tools):
+  - [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy Micropython based devices.
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
