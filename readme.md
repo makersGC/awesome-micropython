@@ -63,8 +63,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 		- [Temperature IR](#temperature-ir)
 		- [Touch Capacitive](#touch-capacitive)
 		- [Touch Resistive](#touch-resistive)
-- [Tools](#tools):
-  - [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy Micropython based devices.
+- [Tools](#tools)
 - [Community](#community)
 - [Books](#books)
 - [Resources](#resources)
@@ -352,6 +351,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 #### Touch Resistive
 
 * [XPT2046-touch-pad-driver-for-PyBoard](https://github.com/robert-hh/XPT2046-touch-pad-driver-for-PyBoard) - Driver for XPT2046 touch pad controller used in many TFT modules.
+
+## Tools
+
+* [mpfshell](https://github.com/wendlers/mpfshell) - A simple shell based file explorer for ESP8266 and WiPy Micropython based devices.
 
 ## Community
 
