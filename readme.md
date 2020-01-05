@@ -365,6 +365,10 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 * [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](http://shop.oreilly.com/product/0636920056515.do) - by Nicholas H. Tollervey.
 
+## Tutorials
+
+* [MicroPython NES Emulator on a RISC-V 64 Processor](https://robotzero.one/micropython-nes-emulator-on-a-risc-v-64-processor/) - Project executed in a FPGA.
+
 ## Resources
 
 * [MicroPython](http://micropython.org) - Project website. Test drive the pyboard. Try MicroPython online with unicorn.
