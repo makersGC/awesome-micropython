@@ -368,7 +368,12 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 ## Tutorials
 
 * [Asynchronous programming in MicroPython](https://github.com/peterhinch/micropython-async) - Tutorials and examples of asynchronous programming.
+* [micropython-microbit-kitronik-robotics](https://github.com/KitronikLtd/micropython-microbit-kitronik-robotics) - Example MicroPython (for BBC micro:bit) code for the Kitronik All-in-one Robotics Board.
 * [MicroPython NES Emulator on a RISC-V 64 Processor](https://robotzero.one/micropython-nes-emulator-on-a-risc-v-64-processor/) - Project executed in a FPGA.
+
+## Projects
+
+* [MicroPython Robot Kit](https://hackaday.io/project/164744-micropython-robot-kit) - Rapid Prototyping Open Source Robot Kit.
 
 ## Resources
 
