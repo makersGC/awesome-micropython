@@ -367,6 +367,7 @@ Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome).
 
 ## Tutorials
 
+* [Asynchronous programming in MicroPython](https://github.com/peterhinch/micropython-async) - Tutorials and examples of asynchronous programming.
 * [MicroPython NES Emulator on a RISC-V 64 Processor](https://robotzero.one/micropython-nes-emulator-on-a-risc-v-64-processor/) - Project executed in a FPGA.
 
 ## Resources
